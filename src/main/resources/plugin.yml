@@ -1,0 +1,6 @@
+name: PopupRecipes
+version: 1.0
+main: com.popupmc.popuprecipes.PopupRecipes
+description: Custom Recipes
+author: junebug12851
+api-version: 1.15
